@@ -69,6 +69,7 @@ Physical isolation removes the attack surface entirely — not through clever se
 - What should Networks D and beyond look like?
 
 ---
+---
 
 # On Network Structure Itself
 
