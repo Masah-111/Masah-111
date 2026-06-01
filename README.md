@@ -1,5 +1,7 @@
 # Self-Introduction(English)
-### Affiliation:Reitaku University, Faculty of Engineering, Department of Engineering, Department of Information Systems Engineering, A sophomore in college(as 2026)
+### Affiliation：Reitaku University, Faculty of Engineering, Department of Engineering, Department of Information Systems Engineering, A sophomore in college(as 2026)
+### Name：Masah-111
+### Hobby：A walk, Nap, Reading (mainly paperbacks)
 
 # 自己紹介(日本語)
 ### 所属：麗澤大学 工学部 工学科 情報システム工学科 二年生(2026年時点)
