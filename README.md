@@ -10,7 +10,7 @@
 
 ##### I’m still a beginner. I don’t have any specialized knowledge yet, but I’m seriously thinking about what networks should look like in the era of AGI and ASI that is likely to arrive in the near future.
 
-
+---
 
 # Thinking Notes: Networks in the Age of AGI/ASI
 
