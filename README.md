@@ -1,9 +1,9 @@
 # Self-Introduction
-## Affiliation:
+## Affiliation
 Reitaku University, Faculty of Engineering, Department of Information Systems Engineering, A sophomore in college(as 2026)
-## Name:
+## Name
 Masah-111
-## Hobby:
+## Hobby
 A walk, Nap, Reading (mainly paperbacks)
 
 ## Areas of interest
