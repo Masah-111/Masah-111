@@ -1,4 +1,4 @@
-# Self-Introduction(English)
+## Self-Introduction(English)
 Affiliation：Reitaku University, Faculty of Engineering, Department of Engineering, Department of Information Systems Engineering
 
 # 自己紹介(日本語)
