@@ -1,7 +1,10 @@
 # Self-Introduction
-- Affiliation：Reitaku University, Faculty of Engineering, Department of Information Systems Engineering, A sophomore in college(as 2026)
-- Name：Masah-111
-- Hobby：A walk, Nap, Reading (mainly paperbacks)
+## Affiliation:
+Reitaku University, Faculty of Engineering, Department of Information Systems Engineering, A sophomore in college(as 2026)
+## Name:
+Masah-111
+## Hobby:
+A walk, Nap, Reading (mainly paperbacks)
 
 ## Areas of interest
 - Network Design, Planning and Architecture
